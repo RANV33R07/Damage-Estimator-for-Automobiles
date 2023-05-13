@@ -39,7 +39,7 @@ python train.py --img 514 --batch 16 --epochs 100 --data dataset.yaml --weights 
 
 ## Preprocessing Dataset
 
-[`car damage detection.ipynb`](preprocess.ipynb)
+[`car damage detection.ipynb`](car_damage_detection.ipynb)
 
 ## Special Thanks to [Ultralytics](https://github.com/ultralytics) and [SelectStar](https://selectstar.ai/).
 
