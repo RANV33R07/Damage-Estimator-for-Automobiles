@@ -99,7 +99,7 @@ Pytorch Installation Guide - [Nvidia Forums](https://forums.developer.nvidia.com
 ## Run
 Install Jupter Notebook
 ```bash
-pip3 install jupyter notebook
+>> pip3 install jupyter notebook
 ```
 
 - Open Terminal in the Yolov5 directory
