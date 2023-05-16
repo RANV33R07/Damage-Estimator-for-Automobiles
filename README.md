@@ -112,8 +112,8 @@ Install Jupter Notebook
 
 Used `yolov5s.pt` pretrained model from original yolov5 repository.
 
-- Best model: [best.pt]([runs/train/exp4/weights/best.pt](https://drive.google.com/uc?export=view&id=1G51uKZ-wLyCK_Z_oe2N73MjLQzKjJlq6))
-- Last model: [last.pt]([runs/train/exp4/weights/last.pt](https://drive.google.com/uc?export=view&id=19d0yAr8BUTL2uIoDLNV86v_-XL_wcuQ1))
+- Best model: [best.pt](https://drive.google.com/file/d/1OsinR9AD5SglWkOLVuxX6ivkmH1Eo6nU/view?usp=share_link)
+- Last model: [last.pt](https://drive.google.com/file/d/1GSY2_RUj9acVmEJs74XxQWn8HIvwNLL2/view?usp=share_link)
 
 Used script for training
 
